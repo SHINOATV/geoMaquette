@@ -1,2 +1,2 @@
 # geoMaquette
-Designs possibles
+Designs possibles pour le site Geo

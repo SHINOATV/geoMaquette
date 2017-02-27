@@ -1,0 +1,27 @@
+body {
+    color: #000;
+}
+p {
+    text-align: justify;
+}
+.navbar {
+    background-color: #43a63a;
+    border-color: #028700;
+    opacity: 1;
+    color: #155500;
+}
+.navbar-inverse .navbar-brand {
+    color: #1c5119;
+}
+.navbar-collapse {
+    background-color: rgba(153, 255, 102, 0.4);
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #237900;
+}
+.page-header {
+    color: #155500;
+}
+.panel-default>.panel-heading {
+    background-color: rgba(153, 255, 102, 0.6);
+}
